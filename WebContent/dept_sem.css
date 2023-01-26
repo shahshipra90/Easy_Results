@@ -1,0 +1,32 @@
+	.title{
+  margin-left: 290px;
+  color: black;
+  font-size: 25px;
+  margin-top: 50px;
+}
+.dept{
+	margin-top: 110px;
+}
+td{
+	padding: 15px;
+}
+select{
+	width: 200px;
+	height:25px;
+	border-radius:5px;
+}
+input{
+	width: 200px;
+	height:25px;
+	border-radius:5px;
+}
+.subbtn{
+  width : 180px;
+  height : 50px;
+  border-radius : 8px;
+  cursor : pointer;
+}
+.subbtn:hover{
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+@CHARSET "ISO-8859-1";

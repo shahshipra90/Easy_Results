@@ -1,0 +1,124 @@
+.box-title2 pre{
+	 margin-left: -14%;
+   margin-top: 10%;
+    font-size: 20px;
+}
+
+.pass{
+  margin-left: 20px;
+  font-size: 18px;
+  position: relative;
+  top: 0px;
+}
+.fail{
+  margin-left: 100px;
+  font-size: 18px;
+  position: relative;
+  top: 0px;
+}
+.it{
+	border: none;
+	border-radius: 3px;
+	background:	green;
+	width: 300px;
+	height: 150px;
+	margin-left: 715px;
+	position:absolute;
+	top:340px;
+	color: black;
+}
+.electrical{
+	border: none;
+	border-radius: 3px;
+	background:	#FF4500;
+	width: 300px;
+	height: 150px;
+	margin-left: 1100px;
+	position:absolute;
+	top:340px;
+	color: black;
+}
+.ce{
+	border: none;
+	border-radius: 3px;
+	background:#DC143C;
+	width: 300px;
+	height: 150px;
+	margin-left: 340px;
+	position:absolute;
+	top:340px;
+	color: black;
+}
+.ec{
+	border: none;
+	border-radius: 3px;
+	background:#FF4500;
+	width: 300px;
+	height: 150px;
+	margin-left: 340px;
+	position:absolute;
+	top:510px;
+	color: black;
+}
+.civil{
+	border: none;
+	border-radius: 3px;
+	background:#DC143C;
+	width: 300px;
+	height: 150px;
+	margin-left: 715px;
+	position:absolute;
+	top:510px;
+	color: black;
+}
+.mechnical{
+	border: none;
+	border-radius: 3px;
+	background:green;
+	width: 300px;
+	height: 150px;
+	margin-left: 1100px;
+	position:absolute;
+	top:510px;
+	color: black;
+}
+.aero{
+	border: none;
+	border-radius: 3px;
+	background:green;
+	width: 300px;
+	height: 150px;
+	margin-left: 340px;
+	position:absolute;
+	top:680px;
+	color: black;
+}
+.ce:hover{
+  background:	#404040;
+  color: white;
+}
+.it:hover{
+  background:	#404040;
+  color: white;
+}
+.electrical:hover{
+  background:	#404040;
+  color: white;
+}
+.ec:hover{
+  background:	#404040;
+  color: white;
+}
+.civil:hover{
+  background:	#404040;
+  color: white;
+}
+.mechnical:hover{
+  background:	#404040;
+  color: white;
+}
+.aero:hover{
+  background:	#404040;
+  color: white;
+}
+@CHARSET "ISO-8859-1";

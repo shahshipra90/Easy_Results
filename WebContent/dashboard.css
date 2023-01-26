@@ -1,0 +1,93 @@
+*{
+  margin: 0;
+  padding: 0;
+  user-select: none;
+  box-sizing: border-box;
+  font-family:  'Balsamiq Sans', cursive;	
+}
+hr{
+	border: 1px solid black;
+}
+.title{
+  margin-left: 290px;
+  color: black;
+  font-size: 25px;
+  margin-top: 30px;
+}
+
+body{
+  background: #f5f5f5;
+  //font-family: "poppins", sans-serif;
+}
+
+.regstu{
+  border: none;
+  border-radius: 3px;
+  background:green;
+  width: 300px;
+  height: 150px;
+  margin-left: 340px;
+  position: absolute;
+  top: 170px;
+  color: black;
+}
+.box-title pre{
+  margin-left: 30%;
+   margin-top: 10%;
+    font-size: 18px;
+}
+.students{
+  margin-left: 38%;
+  margin-top: 50px;
+  font-size: 30px;
+}
+.resupd{
+  border: none;
+  background: #FF4500;
+  border-radius: 3px;
+  width: 300px;
+  height: 150px;
+  margin-left: 715px;
+  position: absolute;
+  top: 170px;
+  color: black;
+}
+.box-title1 pre{
+  margin-left: 30%;
+   margin-top: 2%;
+    font-size: 18px;
+}
+
+.resdec{
+  border: none;
+  border-radius: 3px;
+  background: #DC143C;
+  width: 300px;
+  height: 150px;
+  margin-left: 1100px;
+  position: absolute;
+  top: 170px;
+  color: black;
+}
+
+.resupd:hover{
+  background:	#404040;
+  color: white;
+}
+.resdec:hover{
+  background:	#404040;
+  color: white;
+}
+.regstu:hover{
+  background:	#404040;
+  color: white;
+}
+.icon{
+	position: absolute;
+	z-index:0;
+	top:55px;
+	right: 4px;
+	opacity: 0.4;
+	font-size: 90px;
+}
+@CHARSET "ISO-8859-1";

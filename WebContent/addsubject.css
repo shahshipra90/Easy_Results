@@ -1,0 +1,72 @@
+*{
+  margin: 0;
+  padding: 0;
+  user-select: none;
+  box-sizing: border-box;
+  font-family:  'Balsamiq Sans', cursive;	
+}
+body{
+  //font-family:  'Balsamiq Sans', cursive;	
+  font-size: 16px;
+}
+.title{
+  margin-left: 290px;
+  color: black;
+  font-size: 25px;
+  margin-top: 50px;
+}
+hr{
+	border: 1px solid black;
+}
+.dept{
+  margin-left: 280px;
+}
+.center{
+  text-align: center;
+}
+th{
+  border-bottom: 1px solid black;
+}
+td,th{
+  padding: 15px;
+}
+.subject {
+  margin-left: 280px;
+ //border-collapse: collapse;
+}
+tr{
+   //border-bottom: 1px solid 	black;
+   padding: 10px;
+}
+input[type=text]{
+  border-width: thin;
+  height: 25px;
+ // width:200px;
+  border-radius: 3px;
+}
+.smallbox{
+	width: 60px;
+	
+}
+.dept input[type=text]
+{
+	width: 200px;
+}
+.required{
+	color : red;
+}
+.subbtn{
+  width : 180px;
+  height : 50px;
+  border-radius : 8px;
+  cursor : pointer;
+}
+.subbtn:hover{
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+select{
+	width: 200px;
+    height: 25px;
+    border-radius: 5px;
+}
+@CHARSET "ISO-8859-1";

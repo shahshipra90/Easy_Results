@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+  user-select: none;
+  box-sizing: border-box;
+  font-family:  'Balsamiq Sans', cursive;	
+}
+body{
+  //font-family:  'Balsamiq Sans', cursive;	
+  font-size: 16px;
+}
+hr{
+	border: 1px solid black;
+}
+.title{
+  margin-left: 290px;
+  color: black;
+  font-size: 25px;
+  margin-top: 50px;
+}
+.check{
+	height:20px;
+	width:20px;
+}
+table{
+	margin-left:280px;
+	margin-top:40px;
+}
+th{
+  border-bottom: 1px solid black;
+}
+td,th{
+  padding-top: 20px;
+  padding-left:30px;
+  //text-align:center;
+}
+tr{
+   //border-bottom: 1px solid 	black;
+   padding: 10px;
+}
+.sbtn{
+	  width : 180px;
+  height : 50px;
+  border-radius : 8px;
+  cursor : pointer;
+}
+.sbtn:hover{
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+@CHARSET "ISO-8859-1";
